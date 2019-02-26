@@ -1,0 +1,8 @@
+{
+  "name": "VKGameBot",
+  "version": "0.0.1",
+  "main": "bot.js",
+  "repository": "https://github.com/themurka/vkgamebot.git",
+  "author": "@themurka",
+  "license": "FOSSA"
+}
